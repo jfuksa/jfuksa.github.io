@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# Java EE 8
+
+### CDI 2.0
+- specification - [html](https://docs.jboss.org/cdi/spec/2.0/cdi-spec.html)
+- implementation - [WELD latest](https://docs.jboss.org/weld/reference/latest/en-US/) - [hmtl](https://docs.jboss.org/weld/reference/latest/en-US/html/), [pdf](https://docs.jboss.org/weld/reference/latest/en-US/pdf/)
+
 
 You can use the [editor on GitHub](https://github.com/jfuksa/jfuksa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
