@@ -9,14 +9,18 @@
             <td>specification</td>
         </tr>
         <tr>
-            <td rowspan="2"><b>Wildfly</b></td>
-            <td rowspan="2"><img width="160" height="95" src="/assets/images/00_wildfly_logo.png"></td>
+            <td rowspan="3"><b>Wildfly</b></td>
+            <td rowspan="3"><img width="160" height="95" src="/assets/images/00_wildfly_logo.png"></td>
             <td><a href="https://docs.wildfly.org/">html</a></td>
             <td>documentation</td>
         </tr>
         <tr>
             <td><a href="https://docs.jboss.org/author/display/WFLY/Command+Line+Interface">html</a></td>
             <td>documentation - CLI</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/jboss-developer/jboss-developer-shared-resources/blob/master/guides/CONTRIBUTING.md#contribute-a-quickstart">html</a></td>
+            <td>documentation - quickstart</td>
         </tr>
     </tbody>
 </table>
