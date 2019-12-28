@@ -1,6 +1,6 @@
 # Java EE 8
 
-### CDI 2.0 <img style="float: right;" src="whatever.jpg">
+### CDI 2.0 <img style="float: right;" src="assets/images/01_cdi_spec.png">
 - specification - [html](https://docs.jboss.org/cdi/spec/2.0/cdi-spec.html) 
 - implementation - [WELD latest](https://docs.jboss.org/weld/reference/latest/en-US/) - [hmtl](https://docs.jboss.org/weld/reference/latest/en-US/html/), [pdf](https://docs.jboss.org/weld/reference/latest/en-US/pdf/)
 
